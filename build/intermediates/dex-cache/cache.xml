@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\Downloads\BlackHole_starter\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\HP\Downloads\BlackHole_starter\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_e3e7e03c1f573b928c5b087f40eabfdfa260b1a5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\.android\build-cache\185d778a17ff8c8e3328b093b123d7c84a47b0bb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\HP\Downloads\BlackHole_starter\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8f62971c8f8f14ea0307f2d6a9ffd8bd35ab442d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\Downloads\BlackHole_starter\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0134fc22de22ab32a5c73e85fce4b7acad7656eb">
+        <dex dex="C:\Users\HP\Downloads\BlackHole_starter\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_359884982b997188e0baecbaf8f140c5b301e9cc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\.android\build-cache\d728b87bf72d1a8557f0a18643b60714a98dab85\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="C:\Users\HP\Downloads\BlackHole_starter\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_728ecc7b219c4e8a3c879e4a1bed1e5fd8435f01\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\.android\build-cache\59efc3a64a293a8976caf236153367fc263dea6e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Users\HP\Downloads\BlackHole_starter\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4b0381ef49a694aaaf77704bc8e6f2d057031bc1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\.android\build-cache\185d778a17ff8c8e3328b093b123d7c84a47b0bb\output\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\HP\Downloads\BlackHole_starter\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_6b6ec42d38e18c2bac428dd79257ad7d1909fd21\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\.android\build-cache\26ee3cbfa6ac87fd5841060180a48869253c6513\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\HP\Downloads\BlackHole_starter\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4a367cfeca3702548ab62b6282a958d3f29b51e2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\HP\Downloads\BlackHole_starter\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_ded04150d3f1ce79fb6aac7334223dd5985b6e0d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\.android\build-cache\4c1597b5156f2790309fdeb01c5a203f5813c675\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\HP\Downloads\BlackHole_starter\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_72a5d33b5bd29ff396ff78d3ef1217cc69767c36\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\.android\build-cache\fc2c96c7ad1064241786e6e016ffb26fc2bedb86\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\HP\Downloads\BlackHole_starter\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d6031d54a50fc5978b550dbbb0f92ed250a9c79e\classes.dex" />
+    </item>
+
+</items>
